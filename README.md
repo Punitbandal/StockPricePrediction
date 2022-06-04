@@ -19,6 +19,17 @@ Natural language processing (NLP) refers to the branch of computer science—and
 - Naive Bayes classifier algorithms make use of Bayes theorem  
 - Challenges in tongue processing frequently involve speech recognition, tongue understanding, and tongue generation.
 
+**Bayes Theorem**
+ 
+Bayes’ Theorem is a simple mathematical formula used for calculating conditional probabilities.
+
+Conditional probability is a measure of the probability of an event occurring given that another event has (by assumption, presumption, assertion, or evidence) occurred.
+
+![bayes-nagesh-1](https://user-images.githubusercontent.com/65059328/172020273-69f07470-471f-4328-8bcc-22c5c6c3bfc6.jpg)
+
+Which tells us: how often A happens given that B happens, written P(A|B) also called posterior probability, When we know: how often B happens given that A happens, written P(B|A) and how likely A is on its own, written P(A) and how likely B is on its own, written P(B).
+
+
 **3. ARIMA FROM STATS MODEL**
 
 - Autoregressive integrated moving average (ARIMA) models predict future values based on past values.
